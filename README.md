@@ -24,7 +24,13 @@ Transform your videos and photos with cinematic color grading from famous direct
 ### Installation
 
 ```bash
-# Create conda env
+# Clone repo
+git clone https://github.com/Aeshaa-Mehta/FilmyColorGrading.git
+
+```
+
+```bash
+# Setup anaconda environment
 conda env create -f environment.yml
 
 # Install FFmpeg (for audio preservation)
